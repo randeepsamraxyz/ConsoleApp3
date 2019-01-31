@@ -22,6 +22,7 @@ namespace ConsoleApp3
             public bool isAstrildeHere = false;
             public Village()
             { Village.numberofvillages++; }
+
         }
         class Countryside
         {
